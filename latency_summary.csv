@@ -1,0 +1,4 @@
+Language,Latency to full clip (s),Audio Duration (s),RTF,Meets <2s target?
+English,6.6,5.65,1.17,No (CPU)
+Arabic,59.48,7.97,7.46,No (CPU)
+Hindi,60.67,7.7,7.88,No (CPU)

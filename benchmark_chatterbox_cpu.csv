@@ -1,0 +1,2 @@
+Language,Model,Latency,RTF,WER,CER,Similarity,Audio Duration,Transcript,Output
+en,chatterbox,157.2,35.716,0.0,0.0,0.6776481866836548,4.402,Hello! This voice was generated with an open source multilingual model.,outputs/en_chatterbox_40489b34.wav

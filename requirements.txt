@@ -1,0 +1,21 @@
+﻿# Python 3.11; install PyTorch matching your CUDA version first when using a GPU.
+streamlit>=1.41,<2
+torch>=2.5
+torchaudio>=2.5
+transformers>=4.48
+accelerate>=1.2
+sentencepiece>=0.2
+sacremoses>=0.1
+TTS>=0.22
+chatterbox-tts>=0.1.2
+faster-whisper>=1.1
+speechbrain>=1.0
+langdetect>=1.0.9
+lingua-language-detector>=2.0
+jiwer>=3.0
+librosa>=0.10
+soundfile>=0.12
+pandas>=2.2
+tabulate>=0.9
+numpy>=1.26
+ffmpeg-python>=0.2

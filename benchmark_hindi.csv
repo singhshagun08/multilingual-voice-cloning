@@ -1,0 +1,2 @@
+Language,Model,Latency,RTF,WER,CER,Similarity,Audio Duration,Transcript,Output
+hi,xtts,60.6736075000008,7.87764314463786,0.4166666666666667,0.21428571428571427,0.5361372232437134,7.702,नमस्ते यहाँ आवाज एक ओपन सोर्ज मौभाशिन मोल्ड़ा इसे बनाई दई है,C:\Users\lappify\Desktop\voice assitance\outputs\hi_xtts_424c5285.wav

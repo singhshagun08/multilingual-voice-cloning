@@ -1,0 +1,2 @@
+Language,Model,Latency,RTF,WER,CER,Similarity,Audio Duration,Transcript,Output
+ar,xtts,59.48107330000494,7.463745185712515,0.18181818181818182,0.06060606060606061,0.5014458298683167,7.969333333333333,مرحبا تم إنشاء هذا الصوت باستخدام المودج مفتوح المصدر متعدد اللغات,C:\Users\lappify\Desktop\voice assitance\outputs\ar_xtts_d2867039.wav

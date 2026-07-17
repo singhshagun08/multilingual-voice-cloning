@@ -1,0 +1,2 @@
+Language,Model,Latency,RTF,WER,CER,Similarity,Audio Duration,Transcript,Output
+en,xtts,61.34412629999861,7.390858590361277,0.09090909090909091,0.08695652173913043,0.5140401124954224,8.3,This voice was generated with an open source multilingual model.,C:\Users\lappify\Desktop\voice assitance\outputs\en_xtts_8d66abf5.wav

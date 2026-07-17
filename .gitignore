@@ -1,0 +1,14 @@
+﻿.venv/
+__pycache__/
+*.pyc
+outputs/*.wav
+logs/
+*.log
+project.zip
+project (*).zip
+project (1).zip
+project (2).zip
+project (3).zip
+tts_install.log
+speechbrain_install.log
+working_requirements_log.txt

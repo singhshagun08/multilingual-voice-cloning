@@ -1,0 +1,2 @@
+﻿Language,Model,Latency,RTF,WER,CER,Similarity,Generation Time,Audio Duration,Output
+en,xtts,6.600763,1.16745,0.0,0.0,0.488115,6.600763,5.654,outputs/en_xtts_c7d6d7dc.wav

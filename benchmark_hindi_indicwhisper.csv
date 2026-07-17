@@ -1,0 +1,2 @@
+Language,Model,ASR,WER,CER,Transcript
+hi,xtts,vasista22/whisper-hindi-small,0.16666666666666666,0.14285714285714285,नमस्ते यह आवाज एक ओपन सोर्स मऊभाषिंग मुर्दाई से बनाई गई है

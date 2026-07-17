@@ -1,0 +1,4 @@
+Language,Latency (s),Audio Duration (s),RTF,WER,CER,Similarity,Meets RTF<0.5?,Meets Similarity>0.75?
+English (CPU),61.34,8.3,7.39,0.091,0.087,0.514,No,No
+Arabic (CPU),59.48,7.97,7.46,0.182,0.061,0.501,No,No
+Hindi (CPU),60.67,7.7,7.88,0.417,0.214,0.536,No,No
